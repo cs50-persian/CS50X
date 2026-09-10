@@ -43,10 +43,10 @@
 * زبان Python
 * زبان Scratch
 * کار با Arrays
-* مدیریت Memory
 * فریمورک Flask
 * زبان JavaScript
 * کار با Algorithms
+* مدیریت Memory
 * کار با Data Structures
 * مفهوم Artificial Intelligence
 
